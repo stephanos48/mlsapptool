@@ -1,0 +1,10 @@
+C:\Users\Stephen.English\mlsapptool\bin\Debug\netcoreapp2.0\mlsapptool.deps.json
+C:\Users\Stephen.English\mlsapptool\bin\Debug\netcoreapp2.0\mlsapptool.runtimeconfig.json
+C:\Users\Stephen.English\mlsapptool\bin\Debug\netcoreapp2.0\mlsapptool.runtimeconfig.dev.json
+C:\Users\Stephen.English\mlsapptool\bin\Debug\netcoreapp2.0\mlsapptool.dll
+C:\Users\Stephen.English\mlsapptool\bin\Debug\netcoreapp2.0\mlsapptool.pdb
+C:\Users\Stephen.English\mlsapptool\obj\Debug\netcoreapp2.0\mlsapptool.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.English\mlsapptool\obj\Debug\netcoreapp2.0\mlsapptool.AssemblyInfoInputs.cache
+C:\Users\Stephen.English\mlsapptool\obj\Debug\netcoreapp2.0\mlsapptool.AssemblyInfo.cs
+C:\Users\Stephen.English\mlsapptool\obj\Debug\netcoreapp2.0\mlsapptool.dll
+C:\Users\Stephen.English\mlsapptool\obj\Debug\netcoreapp2.0\mlsapptool.pdb
